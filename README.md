@@ -3,7 +3,5 @@ THIS IS A OPEN SOURCE ECOMMERCE MADE BY ME (Rodrigo), YOU CAN USE THIS FOR FREE 
 
 Contains a Open Source Ecommerce Client side and Open Source Ecommerce Admin Panel Side with Firebase Firestore and Realtime Database
 
-Both are working but 
-
 Both work but the user is required to connect to Firebase on their own.
 Each application has its README in which it contains the functions and requirements
